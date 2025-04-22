@@ -1,4 +1,4 @@
-Here's a sample documentation for my project that includes **sign up**, **sign in**, **reset password**, and a **dashboard** with **customers** and **tickets** sections. It uses **ReactJS** for the frontend, **NodeJS**, **ExpressJS**, **MySQL** for the backend, and utilizes **REST APIs**. The API is also tested using **Postman**. And iam working on it to improve the things
+This project  includes **sign up**, **sign in**, **reset password**, and a **dashboard** with **customers** and **tickets** sections. It uses **ReactJS** for the frontend, **NodeJS**, **ExpressJS**, **MySQL** for the backend, and utilizes **REST APIs**. The API is also tested using **Postman**. And iam working on it to improve the things
 
 ---
 
